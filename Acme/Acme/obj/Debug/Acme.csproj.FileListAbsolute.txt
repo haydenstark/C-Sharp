@@ -1,0 +1,7 @@
+C:\Users\Hayden\Documents\GitHub\C-Sharp\Acme\Acme\bin\Debug\Acme.exe.config
+C:\Users\Hayden\Documents\GitHub\C-Sharp\Acme\Acme\bin\Debug\Acme.exe
+C:\Users\Hayden\Documents\GitHub\C-Sharp\Acme\Acme\bin\Debug\Acme.pdb
+C:\Users\Hayden\Documents\GitHub\C-Sharp\Acme\Acme\obj\Debug\Acme.csprojAssemblyReference.cache
+C:\Users\Hayden\Documents\GitHub\C-Sharp\Acme\Acme\obj\Debug\Acme.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\Documents\GitHub\C-Sharp\Acme\Acme\obj\Debug\Acme.exe
+C:\Users\Hayden\Documents\GitHub\C-Sharp\Acme\Acme\obj\Debug\Acme.pdb
