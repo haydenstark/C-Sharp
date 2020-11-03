@@ -1,0 +1,7 @@
+C:\Users\Hayden\Documents\GitHub\C-Sharp\DR\DR\bin\Debug\DR.exe.config
+C:\Users\Hayden\Documents\GitHub\C-Sharp\DR\DR\bin\Debug\DR.exe
+C:\Users\Hayden\Documents\GitHub\C-Sharp\DR\DR\bin\Debug\DR.pdb
+C:\Users\Hayden\Documents\GitHub\C-Sharp\DR\DR\obj\Debug\DR.csprojAssemblyReference.cache
+C:\Users\Hayden\Documents\GitHub\C-Sharp\DR\DR\obj\Debug\DR.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\Documents\GitHub\C-Sharp\DR\DR\obj\Debug\DR.exe
+C:\Users\Hayden\Documents\GitHub\C-Sharp\DR\DR\obj\Debug\DR.pdb
