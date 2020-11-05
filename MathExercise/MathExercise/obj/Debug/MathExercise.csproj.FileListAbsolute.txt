@@ -1,0 +1,7 @@
+C:\Users\Hayden\Documents\GitHub\C-Sharp\MathExercise\MathExercise\bin\Debug\MathExercise.exe.config
+C:\Users\Hayden\Documents\GitHub\C-Sharp\MathExercise\MathExercise\bin\Debug\MathExercise.exe
+C:\Users\Hayden\Documents\GitHub\C-Sharp\MathExercise\MathExercise\bin\Debug\MathExercise.pdb
+C:\Users\Hayden\Documents\GitHub\C-Sharp\MathExercise\MathExercise\obj\Debug\MathExercise.csprojAssemblyReference.cache
+C:\Users\Hayden\Documents\GitHub\C-Sharp\MathExercise\MathExercise\obj\Debug\MathExercise.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\Documents\GitHub\C-Sharp\MathExercise\MathExercise\obj\Debug\MathExercise.exe
+C:\Users\Hayden\Documents\GitHub\C-Sharp\MathExercise\MathExercise\obj\Debug\MathExercise.pdb
