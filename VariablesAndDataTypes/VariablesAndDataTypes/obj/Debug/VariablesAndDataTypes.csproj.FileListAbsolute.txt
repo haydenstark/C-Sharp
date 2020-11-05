@@ -1,7 +1,0 @@
-C:\Users\Hayden\Documents\GitHub\C-Sharp\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe.config
-C:\Users\Hayden\Documents\GitHub\C-Sharp\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe
-C:\Users\Hayden\Documents\GitHub\C-Sharp\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.pdb
-C:\Users\Hayden\Documents\GitHub\C-Sharp\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.csprojAssemblyReference.cache
-C:\Users\Hayden\Documents\GitHub\C-Sharp\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
-C:\Users\Hayden\Documents\GitHub\C-Sharp\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.exe
-C:\Users\Hayden\Documents\GitHub\C-Sharp\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.pdb
