@@ -1,0 +1,6 @@
+C:\Users\Hayden\Documents\GitHub\C-Sharp\AnonIncome\AnonIncome\bin\Debug\AnonIncome.exe.config
+C:\Users\Hayden\Documents\GitHub\C-Sharp\AnonIncome\AnonIncome\bin\Debug\AnonIncome.exe
+C:\Users\Hayden\Documents\GitHub\C-Sharp\AnonIncome\AnonIncome\bin\Debug\AnonIncome.pdb
+C:\Users\Hayden\Documents\GitHub\C-Sharp\AnonIncome\AnonIncome\obj\Debug\AnonIncome.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\Documents\GitHub\C-Sharp\AnonIncome\AnonIncome\obj\Debug\AnonIncome.exe
+C:\Users\Hayden\Documents\GitHub\C-Sharp\AnonIncome\AnonIncome\obj\Debug\AnonIncome.pdb
