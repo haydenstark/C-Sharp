@@ -1,0 +1,7 @@
+C:\Users\Hayden\Documents\GitHub\C-Sharp\OutputParameters\OutputParameters\bin\Debug\OutputParameters.exe.config
+C:\Users\Hayden\Documents\GitHub\C-Sharp\OutputParameters\OutputParameters\bin\Debug\OutputParameters.exe
+C:\Users\Hayden\Documents\GitHub\C-Sharp\OutputParameters\OutputParameters\bin\Debug\OutputParameters.pdb
+C:\Users\Hayden\Documents\GitHub\C-Sharp\OutputParameters\OutputParameters\obj\Debug\OutputParameters.csprojAssemblyReference.cache
+C:\Users\Hayden\Documents\GitHub\C-Sharp\OutputParameters\OutputParameters\obj\Debug\OutputParameters.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\Documents\GitHub\C-Sharp\OutputParameters\OutputParameters\obj\Debug\OutputParameters.exe
+C:\Users\Hayden\Documents\GitHub\C-Sharp\OutputParameters\OutputParameters\obj\Debug\OutputParameters.pdb
