@@ -1,0 +1,7 @@
+C:\Users\Hayden\Documents\GitHub\C-Sharp\OverloadingOperators\OverloadingOperators\bin\Debug\OverloadingOperators.exe.config
+C:\Users\Hayden\Documents\GitHub\C-Sharp\OverloadingOperators\OverloadingOperators\bin\Debug\OverloadingOperators.exe
+C:\Users\Hayden\Documents\GitHub\C-Sharp\OverloadingOperators\OverloadingOperators\bin\Debug\OverloadingOperators.pdb
+C:\Users\Hayden\Documents\GitHub\C-Sharp\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.csprojAssemblyReference.cache
+C:\Users\Hayden\Documents\GitHub\C-Sharp\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\Documents\GitHub\C-Sharp\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.exe
+C:\Users\Hayden\Documents\GitHub\C-Sharp\OverloadingOperators\OverloadingOperators\obj\Debug\OverloadingOperators.pdb
