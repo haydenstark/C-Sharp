@@ -5,3 +5,10 @@ C:\Users\Hayden\Documents\GitHub\C-Sharp\Do_While\Do_While\obj\Debug\Do_While.cs
 C:\Users\Hayden\Documents\GitHub\C-Sharp\Do_While\Do_While\obj\Debug\Do_While.csproj.CoreCompileInputs.cache
 C:\Users\Hayden\Documents\GitHub\C-Sharp\Do_While\Do_While\obj\Debug\Do_While.exe
 C:\Users\Hayden\Documents\GitHub\C-Sharp\Do_While\Do_While\obj\Debug\Do_While.pdb
+C:\Users\james\Documents\GitHub\C-Sharp\Do_While\Do_While\bin\Debug\Do_While.exe.config
+C:\Users\james\Documents\GitHub\C-Sharp\Do_While\Do_While\bin\Debug\Do_While.exe
+C:\Users\james\Documents\GitHub\C-Sharp\Do_While\Do_While\bin\Debug\Do_While.pdb
+C:\Users\james\Documents\GitHub\C-Sharp\Do_While\Do_While\obj\Debug\Do_While.csprojAssemblyReference.cache
+C:\Users\james\Documents\GitHub\C-Sharp\Do_While\Do_While\obj\Debug\Do_While.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\GitHub\C-Sharp\Do_While\Do_While\obj\Debug\Do_While.exe
+C:\Users\james\Documents\GitHub\C-Sharp\Do_While\Do_While\obj\Debug\Do_While.pdb
