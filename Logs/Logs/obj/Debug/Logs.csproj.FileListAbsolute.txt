@@ -1,0 +1,7 @@
+C:\Users\james\Documents\GitHub\C-Sharp\Logs\Logs\bin\Debug\Logs.exe.config
+C:\Users\james\Documents\GitHub\C-Sharp\Logs\Logs\bin\Debug\Logs.exe
+C:\Users\james\Documents\GitHub\C-Sharp\Logs\Logs\bin\Debug\Logs.pdb
+C:\Users\james\Documents\GitHub\C-Sharp\Logs\Logs\obj\Debug\Logs.csprojAssemblyReference.cache
+C:\Users\james\Documents\GitHub\C-Sharp\Logs\Logs\obj\Debug\Logs.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\GitHub\C-Sharp\Logs\Logs\obj\Debug\Logs.exe
+C:\Users\james\Documents\GitHub\C-Sharp\Logs\Logs\obj\Debug\Logs.pdb
