@@ -1,0 +1,7 @@
+C:\Users\james\Documents\GitHub\C-Sharp\Const_Var_Guid\Const_Var_Guid\bin\Debug\Const_Var_Guid.exe.config
+C:\Users\james\Documents\GitHub\C-Sharp\Const_Var_Guid\Const_Var_Guid\bin\Debug\Const_Var_Guid.exe
+C:\Users\james\Documents\GitHub\C-Sharp\Const_Var_Guid\Const_Var_Guid\bin\Debug\Const_Var_Guid.pdb
+C:\Users\james\Documents\GitHub\C-Sharp\Const_Var_Guid\Const_Var_Guid\obj\Debug\Const_Var_Guid.csprojAssemblyReference.cache
+C:\Users\james\Documents\GitHub\C-Sharp\Const_Var_Guid\Const_Var_Guid\obj\Debug\Const_Var_Guid.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\GitHub\C-Sharp\Const_Var_Guid\Const_Var_Guid\obj\Debug\Const_Var_Guid.exe
+C:\Users\james\Documents\GitHub\C-Sharp\Const_Var_Guid\Const_Var_Guid\obj\Debug\Const_Var_Guid.pdb
