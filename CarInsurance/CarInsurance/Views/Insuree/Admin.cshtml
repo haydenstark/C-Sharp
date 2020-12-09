@@ -1,0 +1,14 @@
+﻿@using CarInsurance.ViewModels
+@model List<InsureeVM>
+<h2>Admin</h2>
+<h3>List of all Insuree's names, emails and quotes.</h3>
+
+
+@foreach (var insureeVM in Model)
+{
+<h4>
+    @insureeVM.FirstName @insureeVM.LastName&nbsp; | &nbsp;@insureeVM.EmailAddress&nbsp; | &nbsp;@insureeVM.Quote.ToString("C2")
+</h4>
+}
+
+<!-- I'm so sorry the css and html are so lackluster on this page, my bootstrap kept breaking and I couldn't remedy it -->
