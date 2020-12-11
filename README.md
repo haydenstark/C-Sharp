@@ -9,7 +9,7 @@ Console app that calculates and compares two salaries side-by-side.
 Web MVC app that utilizes Entity Framework and calculates a quote using simple business logic based on user input.
 
 ## Car_Insurance
-Different from above MVC - simple console app checking if conditions are met.
+Different from MVC CarInsurance - simple console app checking if conditions are met.
 
 ## Code_First
 Console app utilizing Entity Framework from a code first design.
