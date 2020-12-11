@@ -1,5 +1,6 @@
 # C# Projects
-These are a handful of assignments completed during my C# course with The Tech Academy (For unmentioned projects - description is the title)
+These are a handful of assignments completed during my C# course with The Tech Academy  
+(For unmentioned projects - description is the title)
 
 ## AnonIncome
 Console app that calculates and compares two salaries side-by-side.
