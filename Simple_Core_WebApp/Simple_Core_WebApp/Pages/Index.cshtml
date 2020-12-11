@@ -1,0 +1,15 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    ViewData["Msg"] = "Here is my custom h2 element using razor syntax.";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <h2 class="text-info">@ViewData["Msg"]</h2><br />
+
+    <h2 class="text-info">And the current time:</h2>
+    <h4 class="text-muted">@DateTime.Now.ToLocalTime()</h4><br />
+    <p class="mt-5 text-black-50">Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
